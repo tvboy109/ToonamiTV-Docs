@@ -7,11 +7,27 @@ nav_order: 3
 # ToonamiTV Features
 
 ## Electronic Program Guide (EPG)
-- Real-time program schedule
-- Current and upcoming shows
-- Show descriptions and timing
-- Easy-to-read interface
+
+{: .highlight }
+> Our advanced EPG system provides real-time program information and upcoming show details. [Learn more about our EPG](EPG.html)
+
+### Key EPG Features
+- Real-time program updates
 - Mini EPG overlay during playback
+- Current show information:
+  ```json
+  "12:00 AM FLCL Shoegaze"
+  ```
+- Next show preview:
+  ```json
+  "12:30 AM Common Side Effects"
+  ```
+- Upcoming shows list:
+  ```json
+  - "1:00 AM Blue Exorcist"
+  - "1:30 AM One Piece"
+  - "2:00 AM One Piece"
+  ```
 
 ## User Interface
 - Modern, intuitive design
