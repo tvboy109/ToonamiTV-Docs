@@ -31,6 +31,7 @@
 
 ## Support
 If you need assistance:
-- Check our troubleshooting guide
-- Contact support through official channels
-- Visit our support forum
+- Join our [Discord Community](https://discord.gg/nkEMkr6QG4)
+- Watch tutorials on our [YouTube Channel](https://youtube.com/@devmastery-r9o)
+- Check our troubleshooting guides in Discord
+- Ask questions in our Discord support channels

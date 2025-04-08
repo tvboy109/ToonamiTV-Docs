@@ -36,10 +36,12 @@ Currently, we do not take show requests.
 ## Support Questions
 
 ### How do I report issues?
-Contact us through official support channels.
+Join our [Discord Server](https://discord.gg/nkEMkr6QG4) and report issues in the appropriate support channel.
 
 ### How often is the channel updated?
-Updates are released as needed to improve stability and features.
+Updates are released as needed to improve stability and features. Follow our [YouTube Channel](https://youtube.com/@devmastery-r9o) for update announcements.
 
 ### Where can I get help?
-Check our documentation or contact support for assistance.
+- Join our [Discord Community](https://discord.gg/nkEMkr6QG4) for direct support
+- Watch tutorials on our [YouTube Channel](https://youtube.com/@devmastery-r9o)
+- Check pinned messages and guides in our Discord channels

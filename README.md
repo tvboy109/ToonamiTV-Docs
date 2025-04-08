@@ -16,9 +16,17 @@ A private Roku channel for classic animation streaming.
 - Classic animation content
 - Modern user interface
 
-## Support
+## Community & Support
 
-For support inquiries or feature requests, please contact us through official channels.
+- YouTube Channel: [DevMastery](https://youtube.com/@devmastery-r9o)
+- Discord Server: [Join our Community](https://discord.gg/nkEMkr6QG4)
+- Feature requests and support available on Discord
+
+## Updates & News
+
+Stay updated with our latest features and announcements:
+- Subscribe to our [YouTube Channel](https://youtube.com/@devmastery-r9o)
+- Join our [Discord Community](https://discord.gg/nkEMkr6QG4)
 
 ## Legal
 
