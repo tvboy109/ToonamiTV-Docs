@@ -1,3 +1,9 @@
+---
+layout: default
+title: Features
+nav_order: 3
+---
+
 # ToonamiTV Features
 
 ## Electronic Program Guide (EPG)

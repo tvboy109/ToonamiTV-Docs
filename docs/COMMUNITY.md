@@ -1,3 +1,9 @@
+---
+layout: default
+title: Community
+nav_order: 4
+---
+
 # ToonamiTV Community
 
 ## Join Our Community

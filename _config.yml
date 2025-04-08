@@ -1,0 +1,33 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: ToonamiTV Documentation
+description: Documentation for the ToonamiTV Roku Channel
+baseurl: "/ToonamiTV-Docs"
+url: "https://tvboy109.github.io"
+
+# Theme settings
+search_enabled: true
+heading_anchors: true
+color_scheme: dark
+
+# Navigation
+nav_external_links:
+  - title: Discord Community
+    url: https://discord.gg/nkEMkr6QG4
+    hide_icon: false
+  - title: YouTube Channel
+    url: https://youtube.com/@devmastery-r9o
+    hide_icon: false
+
+# Footer content
+footer_content: "Copyright &copy; 2025 ToonamiTV. All rights reserved."
+
+# Aux links for the upper right navigation
+aux_links:
+  "Join Discord":
+    - "https://discord.gg/nkEMkr6QG4"
+  "YouTube":
+    - "https://youtube.com/@devmastery-r9o"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
