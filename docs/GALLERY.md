@@ -10,7 +10,7 @@ Experience ToonamiTV through our gallery of screenshots showcasing the channel's
 
 ## Main Interface
 
-![ToonamiTV Main Interface](../assets/images/githubtoonamitv.jpg)
+![ToonamiTV Main Interface](/ToonamiTV-Docs/images/githubtoonamitv.jpg)
 *The main interface of ToonamiTV featuring our modern design and EPG system*
 
 ## Electronic Program Guide (EPG)

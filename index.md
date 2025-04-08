@@ -8,7 +8,7 @@ nav_order: 1
 
 ToonamiTV is a private Roku channel bringing classic animation content to your screen.
 
-![ToonamiTV Screenshot](../assets/images/githubtoonamitv.jpg)
+![ToonamiTV Screenshot](/ToonamiTV-Docs/images/githubtoonamitv.jpg)
 *ToonamiTV in action - featuring our modern interface and EPG system*
 
 {: .warning }
