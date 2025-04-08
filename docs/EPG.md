@@ -8,6 +8,9 @@ nav_order: 3
 
 ToonamiTV features a modern, user-friendly Electronic Program Guide that keeps you informed about what's playing now and what's coming up next.
 
+![ToonamiTV Interface](/assets/images/githubtoonamitv.jpg)
+*ToonamiTV's modern interface with real-time program guide*
+
 ## Mini EPG Features
 
 {: .highlight }
