@@ -8,6 +8,9 @@ nav_order: 6
 
 Experience ToonamiTV through our gallery of screenshots showcasing the channel's features and interface.
 
+{: .note }
+> Can't see the images? [View screenshot directly](https://raw.githubusercontent.com/tvboy109/ToonamiTV-Docs/main/images/githubtoonamitv.jpg)
+
 ## Main Interface
 
 ![ToonamiTV Main Interface](https://raw.githubusercontent.com/tvboy109/ToonamiTV-Docs/main/images/githubtoonamitv.jpg)
