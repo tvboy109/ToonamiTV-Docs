@@ -3,8 +3,11 @@
 *.xml
 components/
 source/
-images/
+/images/
 manifest
+
+# Allow documentation images
+!assets/images/
 
 # Build files
 *.pkg
