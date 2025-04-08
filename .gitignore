@@ -3,7 +3,6 @@
 *.xml
 components/
 source/
-/images/
 manifest
 
 # Allow documentation images
