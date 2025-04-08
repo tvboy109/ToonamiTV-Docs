@@ -11,6 +11,23 @@ heading_anchors: true
 color_scheme: dark
 
 # Navigation
+# Navigation Structure
+nav:
+  - title: Home
+    url: /
+  - title: Installation
+    url: /docs/INSTALLATION.html
+  - title: Features
+    url: /docs/FEATURES.html
+  - title: EPG
+    url: /docs/EPG.html
+  - title: Gallery
+    url: /docs/GALLERY.html
+  - title: FAQ
+    url: /docs/FAQ.html
+  - title: Community
+    url: /docs/COMMUNITY.html
+
 nav_external_links:
   - title: Discord Community
     url: https://discord.gg/nkEMkr6QG4
